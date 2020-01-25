@@ -24,5 +24,8 @@
       "Location": "Ikeja Outlet",
       "Role": "Sales Rep"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
