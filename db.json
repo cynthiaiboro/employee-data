@@ -1,28 +1,28 @@
 {
-  "posts": [
+  "person": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "id": 1
+      "name": "Cynthia Dickson",
+      "Phone No": "08063685147",
+      "Email": "cynthiaiboro@gmail.com"
+      "Location": "Lekki Outlet"
+      "Role": "Sales Rep"
     },
     {
-      "id": 2,
-      "title": "Post 2"
+     "id": 2
+      "name": "Ibitamuno Tony-Chuku Chioma",
+      "Phone No": "08161116779",
+      "Email": "cynthiaiboro@gmail.com"
+      "Location": "Lekki Outlet"
+      "Role": "Sales Rep"
     },
     {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+    "id": 3
+      "name": "Cynthia Dickson",
+      "Phone No": "Post 1",
+      "Email": "cynthiaiboro@gmail.com"
+      "Location": "Lekki Outlet"
+      "Role": "Sales Rep""
     }
   ],
   "profile": {
