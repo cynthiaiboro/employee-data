@@ -1,27 +1,27 @@
 {
   "person": [
     {
-      "id": 1
+      "id": 1,
       "name": "Cynthia Dickson",
-      "Phone No": "08063685147",
-      "Email": "cynthiaiboro@gmail.com"
-      "Location": "Lekki Outlet"
-      "Role": "Sales Rep"
+      "Phone No": "08063685557",
+      "Email": "cynthia.dickson@cadastores.com".
+      "Location": "Lekki Outlet",
+      "Role": "Branch Manager"
     },
     {
-     "id": 2
-      "name": "Ibitamuno Tony-Chuku Chioma",
+     "id": 2,
+      "name": "Ibitamuno Tony-Chuku",
       "Phone No": "08161116779",
-      "Email": "cynthiaiboro@gmail.com"
-      "Location": "Lekki Outlet"
+      "Email": "ibitamuno.tonychuku@cadastores.com",
+      "Location": "VI Outlet",
       "Role": "Sales Rep"
     },
     {
-    "id": 3
-      "name": "Cynthia Dickson",
-      "Phone No": "Post 1",
-      "Email": "cynthiaiboro@gmail.com"
-      "Location": "Lekki Outlet"
+    "id": 3,
+      "name": "Juliet Okain",
+      "Phone No": "09077658765",
+      "Email": "juliet.okain@cadastores.com",
+      "Location": "Ikeja Outlet",
       "Role": "Sales Rep""
     }
   ],
