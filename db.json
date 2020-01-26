@@ -1,5 +1,4 @@
-{
-  "persons": [
+[
     {
       "id": 1,
       "name": "Cynthia Dickson",
@@ -24,8 +23,4 @@
       "Location": "Ikeja Outlet",
       "Role": "Sales Rep"
     }
-  ],
-  "profile": {
-    "name": "Cynthia"
-  }
-}
+  ]
