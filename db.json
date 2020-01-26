@@ -1,5 +1,6 @@
-    [
-     {
+{
+  "persons": [
+    {
       "id": 1,
       "name": "Cynthia Dickson",
       "phone": "08063685557",
@@ -8,7 +9,7 @@
       "role": "Branch Manager"
     },
     {
-     "id": 2,
+      "id": 2,
       "name": "Ibitamuno Tony-Chuku",
       "phone": "08161116779",
       "email": "ibitamuno.tonychuku@cadastores.com",
@@ -16,11 +17,15 @@
       "role": "Sales Rep"
     },
     {
-    "id": 3,
+      "id": 3,
       "name": "Juliet Okain",
       "phone": "09077658765",
       "email": "juliet.okain@cadastores.com",
       "location": "Ikeja Outlet",
       "role": "Sales Rep"
     }
- ]
+  ],
+  "profile": {
+    "name": "Cynthia"
+  }
+}
