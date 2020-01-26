@@ -1,5 +1,5 @@
 {
-    persons:[
+    "persons":[
     {
       "id": 1,
       "name": "Cynthia Dickson",
@@ -25,7 +25,7 @@
       "Role": "Sales Rep"
     }
   ],
-  profile: {
+  "profile": {
     "name": "Cynthia"
       }
 }
